@@ -9,7 +9,7 @@ python >= 2.6
 
 `git clone https://github.com/MavenSecurityConsulting/OWASP-DE-HTTP-Header-injection-demo.git`
 `cd OWASP-DE-HTTP-Header-injection-demo`
-`pip install -r requirements.txt`
+`sudo pip install -r requirements.txt`
 
 ## Usage
 
