@@ -13,4 +13,7 @@ python >= 2.6
 
 ## Usage
 
+export MAIL_USERNAME="<gmail account>"
+export MAIL_PASSWORD="<password>"
+
 `python app.py runserver`
